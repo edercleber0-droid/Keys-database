@@ -68,5 +68,12 @@
     "expires": 1777136506691,
     "owner": "10338957535",
     "created_at": 1777050106888
+  },
+  {
+    "key": "IACQU9O4",
+    "tipo": "1d",
+    "expires": 1777138558728,
+    "owner": null,
+    "created_at": 1777052158917
   }
 ]
