@@ -82,5 +82,12 @@
     "expires": null,
     "owner": "10338957535",
     "created_at": 1777052166163
+  },
+  {
+    "key": "7XNJAR52",
+    "tipo": "perm",
+    "expires": null,
+    "owner": null,
+    "created_at": 1777056845117
   }
 ]
