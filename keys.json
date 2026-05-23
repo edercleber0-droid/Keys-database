@@ -142,5 +142,12 @@
     "expires": null,
     "owner": null,
     "created_at": 1779564497495
+  },
+  {
+    "key": "32TEI11B",
+    "tipo": "perm",
+    "expires": null,
+    "owner": null,
+    "created_at": 1779564503571
   }
 ]
