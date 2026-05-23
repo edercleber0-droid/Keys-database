@@ -100,5 +100,12 @@
     "tipo": "perm",
     "expires": null,
     "created_at": 1777057331643
+  },
+  {
+    "key": "LVJY4DE5",
+    "tipo": "1d",
+    "expires": 1779650828003,
+    "owner": null,
+    "created_at": 1779564428340
   }
 ]
