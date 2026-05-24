@@ -214,5 +214,12 @@
     "tipo": "1d",
     "expires": 1779724024009,
     "created_at": 1779637624169
+  },
+  {
+    "key": "QHMCS093",
+    "tipo": "perm",
+    "expires": null,
+    "created_at": 1779638304269,
+    "owner": "Nenhum"
   }
 ]
