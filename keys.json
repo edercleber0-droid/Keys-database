@@ -263,5 +263,12 @@
     "expires": 1780607923895,
     "created_at": 1780348724155,
     "owner": "Nenhum"
+  },
+  {
+    "key": "KJDSZQAR",
+    "tipo": "perm",
+    "expires": null,
+    "created_at": 1780349104785,
+    "owner": "Nenhum"
   }
 ]
