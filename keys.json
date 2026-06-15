@@ -1,5 +1,5 @@
-[
-  {
+
+  [{
     "key": "KJDSZQAR",
     "tipo": "perm",
     "expires": null,
@@ -7,10 +7,4 @@
     "owner": "EM USO"
   },
   {
-    "key": "YCLCBRE5",
-    "tipo": "1d",
-    "expires": 1781630639991,
-    "created_at": 1781544240182,
-    "owner": "Nenhum"
-  }
 ]
