@@ -5,6 +5,12 @@
     "expires": null,
     "created_at": 1780349104785,
     "owner": "EM USO"
+  },
+  {
+    "key": "YCLCBRE5",
+    "tipo": "1d",
+    "expires": 1781630639991,
+    "created_at": 1781544240182,
+    "owner": "Nenhum"
   }
 ]
-
