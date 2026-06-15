@@ -1,10 +1,9 @@
 [
   {
-    "key": "KJDSZQAR",
-    "tipo": "perm",
-    "expires": null,
-    "created_at": 1780349104785,
-    "owner": "EM USO"
-  },
-  {
+    "key": "2E2206FW",
+    "tipo": "1d",
+    "expires": 1781630967264,
+    "created_at": 1781544567442,
+    "owner": "Nenhum"
+  }
 ]
