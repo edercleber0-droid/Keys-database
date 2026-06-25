@@ -5,5 +5,12 @@
     "expires": null,
     "created_at": 1781972260653,
     "owner": "EM USO"
+  },
+  {
+    "key": "G3H6INX1",
+    "tipo": "1d",
+    "expires": 1782493015492,
+    "created_at": 1782406615665,
+    "owner": "Nenhum"
   }
 ]
