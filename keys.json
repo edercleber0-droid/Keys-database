@@ -19,5 +19,12 @@
     "expires": null,
     "created_at": 1786813759550,
     "owner": "EM USO"
+  },
+  {
+    "key": "VTREDWF2",
+    "tipo": "perm",
+    "expires": null,
+    "created_at": 1786813896158,
+    "owner": "Nenhum"
   }
 ]
